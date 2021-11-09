@@ -1,0 +1,55 @@
+body {
+    width: 100%;
+    max-width: 1200px;
+    margin: 5px;
+    padding: 5px; 
+}
+
+pre {
+   
+    margin:10px 0 10px 30px;
+    padding:10px;
+    white-space: pre-wrap;
+             white-space: -moz-pre-wrap;
+             white-space: -pre-wrap;
+             white-space: -o-pre-wrap;
+             word-wrap: break-word;
+ 
+}
+div {
+    text-align: justify;
+}
+
+h1, h2 {
+    text-align: center;
+    color: darkgoldenrod;
+}
+.foreword {
+    font-style:italic;
+}
+
+.first {
+height: 400px;
+background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+
+.second {
+    background-color: lightcoral;
+
+}
+
+
+.fourth {
+    background-color: lightpink
+}
+
+.third {
+    background-color: linen;
+}
+
+.img {
+    text-align: center; /* Выравнивание по центру */
+    margin-top: 20; /* Отступ сверху */
+    margin-bottom: 20px; /* Отступ снизу */
+    color: #666; /* Цвет подрисуночной подписи */
+   }
